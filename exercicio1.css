@@ -1,0 +1,17 @@
+main
+{
+    color: white;
+    background-color: #476ECC;
+    width: 400px; /*Largura*/
+    height: 400px; /*Altura*/
+    margin: auto; /*Elemnto no Meio*/
+    padding: 30px 50px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1
+{
+    border: 10px solid #fff;
+    border-radius: 60px;
+}
