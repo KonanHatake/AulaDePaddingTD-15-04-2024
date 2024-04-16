@@ -7,11 +7,12 @@ main
     margin: auto; /*Elemnto no Meio*/
     padding: 30px 50px;
     box-sizing: border-box;
-    text-align: center;
+    text-align: justify;
 }
 
 h1
 {
     border: 10px solid #fff;
     border-radius: 60px;
+    text-align: center;
 }
